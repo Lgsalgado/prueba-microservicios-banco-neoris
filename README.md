@@ -1,4 +1,4 @@
-# Prueba Técnica Neoris
+# Prueba Técnica 
 
 ### Autor: Luis Gabriel Salgado Santamaría 👨‍💻🌐
 
